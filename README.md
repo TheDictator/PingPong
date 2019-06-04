@@ -1,7 +1,7 @@
 # _{Pingpong}_
 
 
-#### By _{Joe Werderber}_
+#### By _{Kevin Carpenter}_
 
 ## Description
 
